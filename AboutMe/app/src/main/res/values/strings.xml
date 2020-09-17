@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Roy Quintana</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, I\'m Roy
+        \n\n I\'m a software engineer learning how to build Android apps with Kotlin.
+        \n\n It\'s been an interesting journey to get this far as an engineer!
+        \n\n I\'ve also enjoyed yoga and weight training to keep fit. You should have seen my best handstands!
+        \n\n Nowadays with COVID19 I mostly play WoW with online friends. We\'re on the verge of beating
+        the final boss on the toughest difficulty!
+        \n\n It\s been a much better experience as a gamer since finding this group of LGBT players.
+        \n\n Lately my interests have steered toward more spiritual ponderings.
+        \n\n Reading some daily Lao Tzu from the <u>Tao Te Ching</u>. The title is actually
+        pronounced the <i>Dao De Jing</i> and I didn\'t know!
+        \n\n I\'ve also started reading <u>The Souls of Black Folk</u> by W. E. B. Du Bois. It seemed
+        out of place with the rest of the spiritual content I\'m consuming. Yet I was pleasantly
+        surprised to find the first chapter titled <i>Of Our Spiritual Strivings</i>.
+        \n\n My next undertaking is rather daunting: Hegel\'s <u>Phenomenology of Spirit</u>. I\'ll be
+        reading it with companion text <u>The Logic of Desire</u>.
+        \n\n I\'ve been meaning to tackle Hegel for years, and it struck me that in this new segment of
+        my life, approaching spiritual topics, it\'d be as pivotal as it ever could be.
+        \n\n And that\'s a little bit about me today! \n
+    </string>
+</resources>
